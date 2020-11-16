@@ -940,3 +940,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.16-14.35.32:266][494]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.16-14.35.32:266][494]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.11.16-14.35.32:266][494]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.16-14.39.29:592][683]LogSlate: Window 'Source Control Login' being destroyed
